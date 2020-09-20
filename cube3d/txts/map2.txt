@@ -1,0 +1,8 @@
+F  6, 205,128
+C 135,206,255
+S ./barrel.xpm
+NO ./mossy.xpm
+SO ./wood.xpm
+WE ./stone.xpm
+EA ./redstone.xpm
+R 1600 900

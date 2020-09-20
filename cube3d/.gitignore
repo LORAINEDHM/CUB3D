@@ -1,0 +1,10 @@
+.DS_Store
+.vscode/
+Cub3D.dSYM/
+leaks.sh
+srcs/.DS_Store
+valgrin.log
+valgrind_log
+*.o
+*.a
+cub3D
