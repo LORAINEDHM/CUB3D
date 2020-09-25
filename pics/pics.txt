@@ -1,0 +1,1 @@
+This folder has been created in order to host the bmp images created with --save argument.
